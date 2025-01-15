@@ -1,0 +1,14 @@
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\bin\Debug\net8.0\projetFinalTest.exe
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\bin\Debug\net8.0\projetFinalTest.deps.json
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\bin\Debug\net8.0\projetFinalTest.runtimeconfig.json
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\bin\Debug\net8.0\projetFinalTest.dll
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\bin\Debug\net8.0\projetFinalTest.pdb
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\obj\Debug\net8.0\projetFinalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\obj\Debug\net8.0\projetFinalTest.AssemblyInfoInputs.cache
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\obj\Debug\net8.0\projetFinalTest.AssemblyInfo.cs
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\obj\Debug\net8.0\projetFinalTest.csproj.CoreCompileInputs.cache
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\obj\Debug\net8.0\projetFinalTest.dll
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\obj\Debug\net8.0\refint\projetFinalTest.dll
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\obj\Debug\net8.0\projetFinalTest.pdb
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\obj\Debug\net8.0\projetFinalTest.genruntimeconfig.cache
+C:\Users\alenz\source\repos\projetFinalTest\projetFinalTest\obj\Debug\net8.0\ref\projetFinalTest.dll
